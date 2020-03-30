@@ -325,7 +325,7 @@ namespace DAL
 
                 if (ex.Number == 547)
                 {
-                    throw new Exception("当前专业被其他数据引用，不能直接被删除！");
+                    throw new Exception("当前专业被其他数据引用，不能直接被删除！！");
                 }
                 else
                 {
