@@ -1,0 +1,9 @@
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\bin\Debug\DAL.dll
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\bin\Debug\DAL.pdb
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\bin\Debug\Models.dll
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\bin\Debug\Models.pdb
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\obj\Debug\DAL.dll
+E:\项目—学员信息管理系统\Students_Information_Sys\DAL\obj\Debug\DAL.pdb
